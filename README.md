@@ -1,5 +1,15 @@
 # Gector API
 
+## Setup
+
+Tested with python 3.8, 3.9 and 3.10
+
+```sh
+conda create -n api python=3.10
+conda activate api
+pip install -r requirements.txt
+```
+
 ## Test the API
 
 ```sh
