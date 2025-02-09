@@ -1,4 +1,4 @@
 [submodule "gector"]
-	path = gector
-	url = https://github.com/canh25xp/gector
-	update = rebase
+  path = gector
+  url = https://github.com/canh25xp/gector
+  update = rebase
