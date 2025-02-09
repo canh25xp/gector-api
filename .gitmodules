@@ -1,4 +1,5 @@
 [submodule "gector"]
   path = gector
   url = https://github.com/canh25xp/gector
+  branch = master
   update = rebase
